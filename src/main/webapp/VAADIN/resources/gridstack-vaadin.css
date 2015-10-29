@@ -1,0 +1,4 @@
+.grid-stack.v-widget, .grid-stack-item.v-widget {
+	/* restore the single column view for low resolution screen */
+    display: block;
+}
